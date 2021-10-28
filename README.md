@@ -1,1 +1,2 @@
 # console-clima-app-nodejs
+```You must access the mentioned web pages to generate the necessary keys in the environment variables, also, keep in mind that a * .json will be generated in the db folder, to control the history```
